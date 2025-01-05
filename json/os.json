@@ -85,7 +85,7 @@
           "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/FLclash.jpg",
           "description": "A Windows Clash client with GUI support.",
           "faDescription": "FlClash یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "configLink": "flclash://add/{url}",
+          "configLink": "FlClash://add/{url}",
           "downloadLink": "https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64-setup.exe",
           "videoLink": "https://example.com/v2rayn-video"
         }
