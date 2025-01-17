@@ -56,8 +56,8 @@
           "name": "Hiddify Next",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
-          "description": "A cross-platform V2Ray client.",
-          "faDescription": "نرم اقزار پیشنهادی برای اندروید با قابلیت اتصال خودکار به بهترین کانکشن",
+          "description": "",
+          "faDescription": "",
           "configLink": "hiddify://import/{url}#name",
           "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
           "videoLink": "https://example.com/v2box-video"
