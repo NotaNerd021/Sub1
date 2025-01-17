@@ -67,7 +67,7 @@
     {
       "name": "ویندوز",
       "engName": "Windows",
-      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Windows_logo_2021.svg.png",
+      "osLogo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/Windows_logo_2021.svg.png",
       "apps": [
         {
           "name": "FlClash",
@@ -82,7 +82,7 @@
         {
           "name": "Hiddify Next",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/Windows_logo_2021.svg.png",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
           "description": "",
           "faDescription": "",
           "configLink": "hiddify://import/{url}#name",
