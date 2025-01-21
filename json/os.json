@@ -26,6 +26,16 @@
           "videoLink": "https://example.com/shadowrocket-video"
         },
         {
+          "name": "V2box",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/v2box.png",
+          "description": "",
+          "faDescription": "",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
           "name": "Happ",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/happ.jpg",
@@ -70,13 +80,22 @@
       "osLogo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/Windows_logo_2021.svg.png",
       "apps": [
         {
-          "name": "FlClash",
+          "name": "Hiddify Next",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/FLclash.jpg",
-          "description": "A Windows Clash client with GUI support.",
-          "faDescription": "FlClash یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "configLink": "flclash://install-config?url={url}",
-          "downloadLink": "https://github.com/chen08209/FlClash/releases/download/v0.8.70/FlClash-0.8.70-windows-amd64-setup.exe",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
+          "description": "",
+          "faDescription": "",
+          "configLink": "hiddify://import/{url}#name",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.Msix",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
+          "name": "V2rayN",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
+          "description": "A Windows V2Ray client with GUI support.",
+          "faDescription": "نرم اقزار پیشنهادی برای کاربران ویندوز",
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip",
           "videoLink": "https://example.com/v2rayn-video"
         },
         {
