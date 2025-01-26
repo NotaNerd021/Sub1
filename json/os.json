@@ -80,6 +80,16 @@
       "osLogo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/Windows_logo_2021.svg.png",
       "apps": [
         {
+          "name": "Hiddify Next",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
+          "description": "",
+          "faDescription": "",
+          "configLink": "hiddify://import/{url}#name",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
+          "videoLink": "https://example.com/v2box-video"
+        },
+        {
           "name": "V2rayN",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
@@ -87,16 +97,6 @@
           "faDescription": "نرم اقزار پیشنهادی برای کاربران ویندوز",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.7.0/v2rayN-windows-64-SelfContained.zip",
           "videoLink": "https://example.com/v2rayn-video"
-        },
-        {
-          "name": "Hiddify Next",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
-          "description": "",
-          "faDescription": "",
-          "configLink": "hiddify://import/{url}#name",
-          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.Msix",
-          "videoLink": "https://example.com/v2box-video"
         }
       ]
     },
