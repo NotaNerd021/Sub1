@@ -59,7 +59,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "بعد از افزودن به برنامه،آپدیت ساب کنید",
           "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.31/v2rayNG_1.9.31_universal.apk",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.9.33/v2rayNG_1.9.33_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
@@ -80,6 +80,15 @@
       "osLogo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/Windows_logo_2021.svg.png",
       "apps": [
         {
+          "name": "V2rayN",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
+          "description": "A Windows V2Ray client with GUI support.",
+          "faDescription": "نرم اقزار پیشنهادی برای کاربران ویندوز",
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.8.3/v2rayN-windows-64-SelfContained.zip",
+          "videoLink": "https://example.com/v2rayn-video"
+        },
+        {
           "name": "Hiddify Next",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
@@ -88,15 +97,6 @@
           "configLink": "hiddify://import/{url}#name",
           "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
           "videoLink": "https://example.com/v2box-video"
-        },
-        {
-          "name": "V2rayN",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
-          "description": "A Windows V2Ray client with GUI support.",
-          "faDescription": "نرم اقزار پیشنهادی برای کاربران ویندوز",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.7.0/v2rayN-windows-64-SelfContained.zip",
-          "videoLink": "https://example.com/v2rayn-video"
         }
       ]
     },
