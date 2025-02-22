@@ -7,7 +7,7 @@
       "apps": [
         {
           "name": "Streisand",
-          "price": "0",
+          "price": "پیشنهادی",
           "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/streisand.jpg",
           "description": "",
           "faDescription": "نرم افزار پیشنهادی برای IOS",
