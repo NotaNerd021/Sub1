@@ -55,7 +55,7 @@
         {
           "name": "V2RayTun",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/unnamed.png",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/unnamed.jpg",
           "description": "",
           "faDescription": "",
           "configLink": "v2raytun://import/{url}",
