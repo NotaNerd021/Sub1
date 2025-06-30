@@ -53,13 +53,13 @@
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
-          "name": "Hiddify Next",
+          "name": "V2RayTun",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/unnamed.png",
           "description": "",
           "faDescription": "",
-          "configLink": "hiddify://import/{url}#name",
-          "downloadLink": "https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Android-universal.apk",
+          "configLink": "v2raytun://import/{url}",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.v2raytun.android",
           "videoLink": "https://example.com/v2box-video"
         }
       ]
