@@ -49,8 +49,18 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "بعد از افزودن به برنامه،آپدیت ساب کنید",
           "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.4/v2rayNG_1.10.4_universal.apk",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.11/v2rayNG_1.10.11_universal.apk",
           "videoLink": "https://example.com/v2rayng-video"
+        },
+        {
+          "name": "Happ",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/NotaNerd021/Sub1/refs/heads/main/icons/happ.jpg",
+          "description": "",
+          "faDescription": "یک نرم افزار جدید برای اندروید و ios",
+          "configLink": "happ://add/{url}",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.happproxy&pli=1",
+          "videoLink": "https://example.com/v2box-video"
         },
         {
           "name": "V2RayTun",
